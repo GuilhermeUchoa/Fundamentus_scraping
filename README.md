@@ -4,7 +4,10 @@ Crawler do site Fundamentus.com com o uso do framework scrapy, tanto da aba deta
 
 ***Baixa informacões que os outros scrapys do fundamentus não realizam.***
 
-Para iniciar, dentro da pasta fundamentus digite: scrapy crawl detalhes -O nomedoarquivocriado.csv  ou scrapy crawl resultado -O nomedoarquivocriado.csv
+Para iniciar, dentro da pasta principal abra o cmd e digite : scrapy crawl detalhes -O detalhes.csv  ou scrapy crawl resultado -O resultado.csv
+
+![image](https://user-images.githubusercontent.com/47534467/222247097-3483f16d-641d-47f1-8383-890da92298be.png)
+
 
 Não é um codigo elegante, mas funcional, realiza o scrapy de forma rapida.
 
