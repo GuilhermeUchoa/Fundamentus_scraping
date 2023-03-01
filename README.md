@@ -42,3 +42,7 @@ As informacões baixadas são:
            
  Realizei este projeto com o fim de aprendizado e por não encontrar no github nenhum scrapy que pegue todas as informaçoes que eu precisava como setores e subsetores para
  realizar modelos KNN e KMC de machine learning. 
+ 
+ Boa analise, recomendo usar o Pandas:
+ ![image](https://user-images.githubusercontent.com/47534467/222248579-855a1455-a45f-47cb-8c08-b471c7004085.png)
+
